@@ -25,6 +25,7 @@ replay_pid*
 
 # IDE Files
 .idea
+.mvn
 
 # Build target
 target
